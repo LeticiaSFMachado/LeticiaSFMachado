@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LeticiaSFMachado. I´m a computer science student from Brazil.
 - 👀 I’m interested in computer science, videogames and rhythmic gymnastics.
-- 🌱 I’m currently learning Solidity and other cool stuff related to Ethereum blockchain!
 - 📫 Email: letimacleticia@gmail.com
 - 📫 You´ll be able to find me at instagram as well :) Instagram: @machadolett
 - ⚡ Fun fact: My gaming life started with Club Penguin and Kinect Adventure when I was 5 years old.
